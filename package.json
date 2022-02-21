@@ -1,0 +1,19 @@
+{
+  "name": "hd-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-hdwallet": "0.0.27",
+    "express": "^4.17.2",
+    "git": "^0.1.5",
+    "heroku": "^7.59.2",
+    "requirejs": "^2.3.6"
+  }
+}
